@@ -2,7 +2,7 @@
 # 🐍 Python Journey — Mojolaoluwa
 
 > A 16-week structured Python learning journey, following a Deitel-style exercise approach.  
-> 1 hour per day | Started: [Add your start date here]
+> 1 hour per day | Started: [ 17th June 2026]
 
 ---
 
@@ -10,7 +10,6 @@
 
 - **Name:** Mojolaoluwa
 - **Background:** Java Backend Developer
-- **University:** Miva Open University — Software Engineering
 - **Goal:** Broaden my skills by learning Python from the ground up
 - **Primary Resource:** Python Crash Course (Eric Matthes) + Fluent Python (Luciano Ramalho)
 
@@ -72,8 +71,7 @@ python-journey/
 | 15 | Virtual Environments, pip & Project Structure | ⬜ Not Started | — |
 | 16 | Capstone — Build a Complete Python Project | ⬜ Not Started | — |
 
-> Update each row as you go:  ⬜ Not Started → 🔄 In Progress → ✅ Done
-
+>
 ---
 
 ## 🗂️ Exercise Naming Convention
@@ -110,7 +108,6 @@ Options: Task Manager CLI / Student Report Generator / Word Game (Wordle-like)
 
 ## 💡 Key Lessons Learned
 
-*(Update this section as you go — your future self will thank you)*
 
 - **Week 1:** 
 - **Week 2:** 
@@ -153,14 +150,13 @@ As a Java developer, I documented the key differences I noticed along the way.
 | No equivalent | `**kwargs` | Named variable arguments |
 | Java Streams | `map()`, `filter()`, generators | Python's version is simpler |
 
-*(Add more rows as you discover them)*
 
 ---
 
 ## 📬 Connect
 
-- **GitHub:** [your GitHub username]
-- **LinkedIn:** [your LinkedIn]
+- **GitHub:** [mojolaoluwajoy]
+- **LinkedIn:** [Mojolaoluwa Adebola]
 
 ---
 
