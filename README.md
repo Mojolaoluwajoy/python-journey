@@ -101,7 +101,7 @@ Options: Task Manager CLI / Student Report Generator / Word Game (Wordle-like)
 
 - **IDE:** VS Code (Weeks 1–10) → PyCharm (Weeks 11–16)
 - **Python Version:** 3.12+
-- **OS:** *(Add yours here)*
+- **OS:** *(Windows)*
 - **Key Libraries:** See `week15_testing_project_structure/requirements.txt`
 
 ---
