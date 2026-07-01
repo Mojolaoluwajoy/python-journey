@@ -6,3 +6,4 @@ print(name)
 print(age)
 print(gpa)
 print(is_student)
+
