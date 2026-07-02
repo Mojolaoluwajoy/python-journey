@@ -54,7 +54,7 @@ python-journey/
 
 | Week | Topic | Status | Completed |
 |------|-------|--------|-----------|
-| 01 | Environment Setup & Python Basics | ⬜ Not Started | — |
+| 01 | Environment Setup & Python Basics | ⬜ In Progress | — |
 | 02 | Strings & String Methods | ⬜ Not Started | — |
 | 03 | Lists & Tuples | ⬜ Not Started | — |
 | 04 | Dictionaries & Sets | ⬜ Not Started | — |
@@ -109,7 +109,7 @@ Options: Task Manager CLI / Student Report Generator / Word Game (Wordle-like)
 ## 💡 Key Lessons Learned
 
 
-- **Week 1:** 
+- **Week 1:* Python appears to be a simplified and less bulky version of java to me.* 
 - **Week 2:** 
 - **Week 3:** 
 - **Week 4:** 
