@@ -54,8 +54,8 @@ python-journey/
 
 | Week | Topic | Status | Completed |
 |------|-------|--------|-----------|
-| 01 | Environment Setup & Python Basics | ⬜ In Progress | — |
-| 02 | Strings & String Methods | ⬜ Not Started | — |
+| 01 | Environment Setup & Python Basics | ⬜Done | — |
+| 02 | Strings & String Methods | ⬜ In Progress | — |
 | 03 | Lists & Tuples | ⬜ Not Started | — |
 | 04 | Dictionaries & Sets | ⬜ Not Started | — |
 | 05 | Control Flow — if / elif / else | ⬜ Not Started | — |
