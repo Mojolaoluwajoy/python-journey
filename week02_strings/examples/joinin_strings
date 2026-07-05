@@ -1,0 +1,11 @@
+words = ['I', 'love', 'Python']
+
+sentence = ' '.join(words)
+
+print(sentence)
+
+csv_line =','.join(words)
+print(csv_line)
+
+together =''.join(words)
+print(together)
